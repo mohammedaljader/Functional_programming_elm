@@ -1,4 +1,4 @@
-module Higher_Order_Function exposing (..)
+module Higher_Order_Functions exposing (..)
 import Html exposing (Html)
 import Html exposing (Html)
 import Tuple exposing (..)

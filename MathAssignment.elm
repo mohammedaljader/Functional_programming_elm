@@ -1,4 +1,4 @@
-module HigherOrder exposing (..)
+module MathAssignment exposing (..)
 import Html exposing (Html)
 import Html exposing (Html)
 import Html exposing (s)
